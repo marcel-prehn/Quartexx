@@ -1,0 +1,9 @@
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\bin\Debug\quartett.exe
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\bin\Debug\quartett.pdb
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\obj\x86\Debug\quartett.csprojResolveAssemblyReference.cache
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\obj\x86\Debug\quartett.Properties.Resources.resources
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\obj\x86\Debug\quartett.csproj.GenerateResource.Cache
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\obj\x86\Debug\quartett.exe
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\obj\x86\Debug\quartett.pdb
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\bin\Debug\System.Data.SQLite.DLL
+c:\users\marcel\documents\visual studio 2010\Projects\quartett\quartett\obj\x86\Debug\quartett.QuarteXXX.resources
